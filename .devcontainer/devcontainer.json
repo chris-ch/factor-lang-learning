@@ -1,0 +1,13 @@
+{
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"dexterhaslem.factor",
+				"ms-azuretools.vscode-docker"
+			]
+		}
+	}
+}
